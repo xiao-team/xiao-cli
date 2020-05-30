@@ -1,0 +1,29 @@
+{
+  "name": "xiao-cli",
+  "version": "1.0.0",
+  "description": "快速构建脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiao-team/xiao-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiao-team/xiao-cli/issues"
+  },
+  "homepage": "https://github.com/xiao-team/xiao-cli#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.1.0",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.1.0",
+    "log-symbols": "^4.0.0",
+    "ora": "^4.0.4",
+    "shelljs": "^0.8.4"
+  }
+}
